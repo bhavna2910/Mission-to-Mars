@@ -10,5 +10,5 @@ Downloaded jupyter notebook as .py file. Made updates to other .py files as scra
 Index-d2 file has the code. Upon running it, shows all the four hemispheres.
 
 ### Deliverable 3- Add Bootstrap 3 Components
-index file has the updated code. Upon running it, the final deliverable requirements are met.
+Index file has the updated code. Upon running it, the final deliverable requirements are met.
 
